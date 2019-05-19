@@ -26,6 +26,6 @@ function inc(n){
 }
 
 function dec(n){
-  number = n--;
+  n-- = number;
   return number;
 }

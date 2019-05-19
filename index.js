@@ -4,7 +4,7 @@ function add(a, b){
   return number;
 }
 
-function substract(a, b){
+function subtract(a, b){
   number = a + b;
   return number;
 }

@@ -25,7 +25,3 @@ function inc(n){
   return number;
 }
 
-function dec(n){
-  number = n - 1;
-  return number;
-}

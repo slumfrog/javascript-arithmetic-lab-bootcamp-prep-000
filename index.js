@@ -1,14 +1,15 @@
-function add(){
-}
-
-function subtract(){
+function add(a,b){
   
 }
 
-function multiply(){
+function subtract(a,b){
   
 }
 
-function divide(){
+function multiply(a,b){
+  
+}
+
+function divide(a,b){
   
 }
